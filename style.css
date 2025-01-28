@@ -17,7 +17,7 @@
     border: 2px solid black;
 }
 
-.grid-item {
+.item {
     display: flex;
     padding: 0.8em;
     border: 1px solid #ddd;
@@ -26,3 +26,6 @@
     flex: 1 1 32px;
 }
 
+/* .grid-item:hover {
+    background-color: black;
+} */
